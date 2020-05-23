@@ -8,9 +8,7 @@ Summary of the code file :
 
 2)**Constructing Tokenizer1 and Tokenizer2 functions** : these functions are constructed based on the build-in word_tokenizer function along with other word operations/transformations, such as removing stopwords, converting upper letters to lower letters, word stemming etc.
 
-3)**Defining text classifiers** : We consider the TfidfVectorizer transformer to get a vectorized version of the text data. We then feed them to the following classifiers : (a) SGD classifier  
-                                    (b) Multinomial Naive Bayes classifier 
-                                    (c) Gradient Boosting classifier
+3)**Defining text classifiers** : We consider the TfidfVectorizer transformer to get a vectorized version of the text data. We then feed them to the following classifiers :SGD classifier,Multinomial Naive Bayes classifier and Gradient Boosting classifier
 
 4)**Training the models ( over reduced version of the dataset ie consider 4 labels only - due to limited computational power - )** 
 
