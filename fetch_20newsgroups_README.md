@@ -1,5 +1,3 @@
-# text_classification
-
 In this repo we build a classifier for the "fetch_20newsgroups" data set contained in the sklearn library.
 
 Summary of the code file :
